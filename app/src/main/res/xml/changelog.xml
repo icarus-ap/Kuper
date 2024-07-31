@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <version title="v1.3.7" />
-    <item text="Updated APIs" />
-    <item text="Fixed Crashing on opening the app" />
-    <item text="Various Bug Fixes" />
+    <version title="v1.3.8" />
+    <item text="Bug Fixes for Widgets 83, 85 and 87" />
+    <item text="Added 3 New Widgets 91-93" />
 </resources>
